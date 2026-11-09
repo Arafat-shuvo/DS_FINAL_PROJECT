@@ -1,0 +1,2 @@
+optimizer,learning_rate,n_seeds,best_val_macro_f1_mean,best_val_macro_f1_std,test_accuracy_mean,test_accuracy_std,test_macro_precision_mean,test_macro_precision_std,test_macro_recall_mean,test_macro_recall_std,test_macro_f1_mean,test_macro_f1_std,test_macro_auc_mean,test_macro_auc_std,training_time_s_mean
+Adam,0.001,5,0.34335382224518896,0.04596053407139779,0.7542857142857142,0.0569042637953891,0.29619249654293783,0.07611875312420073,0.3181988742964353,0.07987392549882798,0.2916639704089631,0.07743724661420519,0.8834539145860575,0.06903109406368947,65.84604759216309
