@@ -198,40 +198,6 @@ Performance Comparison and Analysis
 | Development Environment | Kaggle Notebooks |
 | GPU Acceleration | CUDA |
 
-## Project Structure
-
-```text
-Respiratory-Disease-Classification/
-│
-├── notebooks/
-│
-├── data/
-│   └── ICBHI_Respiratory_Sound_Database/
-│
-├── models/
-│
-├── checkpoints/
-│
-├── results/
-│   ├── experiment_results.csv
-│   ├── training_history.csv
-│   └── classification_reports.csv
-│
-├── plots/
-│   ├── training_curves/
-│   ├── confusion_matrices/
-│   └── model_comparisons/
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_extraction.py
-│   ├── dataset.py
-│   ├── models.py
-│   ├── train.py
-│   └── evaluation.py
-│
-└── README.md
-```
 
 ## Research Considerations
 
