@@ -1,0 +1,21 @@
+{
+ "run_id": "Adam_lr0.0001_seed7",
+ "optimizer": "Adam",
+ "learning_rate": 0.0001,
+ "seed": 7,
+ "best_epoch": 40,
+ "epochs_run": 55,
+ "stopped_early": true,
+ "best_val_macro_f1": 0.2970284237726098,
+ "val_accuracy_at_best": 0.896551724137931,
+ "test_accuracy": 0.780952380952381,
+ "test_macro_precision": 0.2552011095700416,
+ "test_macro_recall": 0.17682926829268292,
+ "test_macro_f1": 0.18223938223938224,
+ "test_macro_auc": 0.8809073947982942,
+ "test_loss": 0.6370613890034812,
+ "n_test_classes_evaluated": 7,
+ "n_auc_classes": 7,
+ "training_time_s": 80.49981117248535,
+ "n_params": 422728
+}
