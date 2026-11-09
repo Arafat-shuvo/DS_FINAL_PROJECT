@@ -1,0 +1,9 @@
+label,train,val,test
+COPD,44,10,10
+Asthma,1,0,0
+Pneumonia,4,1,1
+Bronchiectasis,5,1,1
+Bronchiolitis,4,1,1
+URTI,10,2,2
+LRTI,1,0,1
+Healthy,18,4,4
